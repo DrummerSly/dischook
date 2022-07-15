@@ -74,7 +74,6 @@ namespace dischook
             // 
             this.urlTextBox.Location = new System.Drawing.Point(12, 73);
             this.urlTextBox.Name = "urlTextBox";
-            this.urlTextBox.ShortcutsEnabled = false;
             this.urlTextBox.Size = new System.Drawing.Size(214, 20);
             this.urlTextBox.TabIndex = 0;
             // 
@@ -84,7 +83,6 @@ namespace dischook
             this.messageTextBox.Multiline = true;
             this.messageTextBox.Name = "messageTextBox";
             this.messageTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.messageTextBox.ShortcutsEnabled = false;
             this.messageTextBox.Size = new System.Drawing.Size(214, 182);
             this.messageTextBox.TabIndex = 1;
             // 
@@ -104,7 +102,6 @@ namespace dischook
             // 
             this.wuTextBox.Location = new System.Drawing.Point(12, 25);
             this.wuTextBox.Name = "wuTextBox";
-            this.wuTextBox.ShortcutsEnabled = false;
             this.wuTextBox.Size = new System.Drawing.Size(214, 20);
             this.wuTextBox.TabIndex = 6;
             // 

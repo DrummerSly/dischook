@@ -7,4 +7,3 @@ C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Release\dischook.csproj.Generate
 C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Release\dischook.csproj.CoreCompileInputs.cache
 C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Release\dischook.exe
 C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Release\dischook.pdb
-C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Release\dischook.csproj.AssemblyReference.cache
