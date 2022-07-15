@@ -1,0 +1,9 @@
+C:\Users\CENTRIX CAFE\source\repos\dischook\bin\Debug\dischook.exe.config
+C:\Users\CENTRIX CAFE\source\repos\dischook\bin\Debug\dischook.exe
+C:\Users\CENTRIX CAFE\source\repos\dischook\bin\Debug\dischook.pdb
+C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Debug\dischook.Form1.resources
+C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Debug\dischook.Properties.Resources.resources
+C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Debug\dischook.csproj.GenerateResource.cache
+C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Debug\dischook.csproj.CoreCompileInputs.cache
+C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Debug\dischook.exe
+C:\Users\CENTRIX CAFE\source\repos\dischook\obj\Debug\dischook.pdb
